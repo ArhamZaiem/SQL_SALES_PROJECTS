@@ -1,6 +1,6 @@
 # sales_project
 In this sales project i have done data exploratory analysis and found out various answers to the questions.
-But before going into the analysis firsi i tried to understand the data. I found out that there were total of 19 different countries in which the sales were taking palce. There were 6 different types of order statuses which are Resolved, On Hold, Cancelled, Shipped, Disputed, In Process. The company was dealing in 7 different types of products and with 92 distinct customers.
+But before going into the analysis, firstly i tried to understand the data. I found out that there were total of 19 different countries in which the sales were taking palce. There were 6 different types of order statuses which are Resolved, On Hold, Cancelled, Shipped, Disputed, In Process. The company was dealing in 7 different types of products and with 92 distinct customers.
 
 # Exploratory_Analysis
 The questions which are answered in this sales analysis are;
