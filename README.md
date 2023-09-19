@@ -5,7 +5,7 @@ But before going into the analysis firsi i tried to understand the data. I found
 # Exploratory_Analysis
 The questions which are answered in this sales analysis are;
 
-1. # Whcih is the highest sales product?
+1. # Which is the highest sales product?
    It was found out that Classical Cars has the most highest sales and Trains have the lowest sales.
 
 2. # Which year has the best sales?
